@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "497878271410",
+    "project_id": "nowbuddy-d65dd",
+    "storage_bucket": "nowbuddy-d65dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497878271410:android:a79feb2937e71bc07990ab",
+        "android_client_info": {
+          "package_name": "com.travel.nowbuddying"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497878271410-drv6i6mpoo86864d2ffa89ic5a50i0fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbx4WuB-2zlViqJ9L7xilhVlp1I-JuPXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497878271410-drv6i6mpoo86864d2ffa89ic5a50i0fm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "497878271410-489b8j9i63hnnrea8c2aerg53rkqpnar.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.travel.nowbuddying"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
